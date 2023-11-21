@@ -30,9 +30,9 @@ API_Meta.RPGMasterLoader={offset:Number.MAX_SAFE_INTEGER,lineCount:-1};
 
 const RPGMasterLoader = (() => { // eslint-disable-line no-unused-vars
 	'use strict';
-	const version = '3.0.0';
+	const version = '2.3.0';
 	API_Meta.RPGMasterLoader.version = version;
-	const lastUpdate = 1700058244;
+	const lastUpdate = 1697186733;
 	const schemaVersion = 0.1;
 
 	const handleChatMessage = (msg) => {
