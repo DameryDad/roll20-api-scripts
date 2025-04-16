@@ -1251,3 +1251,43 @@ cogcrew:
 pf2guidance:
   - "Pathfinder 2e Guidance"
   - "System Toolbox"
+
+velvetgeneration:
+  - "Velvet Generation"
+  - "Utility"
+
+listattrs:
+  - "ListAttrs"
+  - "Utility"
+
+showbuttons:
+  - "ShowButtons"
+  - "Utility"
+
+relatedtokenmovement:
+  - "Related Token Movement"
+  - "Utility"
+
+DrD2LinkedTenacity:
+  - "DrD2LinkedTenacity"
+  - "Utility"
+
+faeruncalendar:
+  - "Faerun Calendar"
+  - "Utility"
+
+DrD2StatusMarkers:
+  - "DrD2StatusMarkers"
+  - "Utility"
+
+SheetDefaults:
+  - "SheetDefaults"
+  - "Utility"
+
+CalenderData:
+  - "CalenderData"
+  - "Utility"
+
+QuestTracker:
+  - "QuestTracker"
+  - "Utility"
